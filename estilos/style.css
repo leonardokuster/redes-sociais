@@ -30,8 +30,8 @@ main {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 539px;
-    width: 259px;
+    height: 579px;
+    width: 280px;
     background-image: url(/imagens/frame-iphone.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -43,9 +43,9 @@ main {
     position: relative;
     top: 7px;
     left: 8px;
-    height: 522px;
-    width: 246px;
-    border-radius: 33px;
+    height: 562px;
+    width: 265px;
+    border-radius: 37px;
     background-color: white;
 }
 
