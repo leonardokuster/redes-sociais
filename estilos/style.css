@@ -49,6 +49,12 @@ main {
     background-color: white;
 }
 
+#notch {
+    position: relative;
+    top: -555px;
+    left: 110px;
+}
+
 #redes-sociais {
     text-align: right;
 }
